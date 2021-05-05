@@ -1,11 +1,16 @@
 body {
-    background: black;
+    background-color: black;
 }
 
 h2 {
-    color: hotpink;
+    color:maroon;
+    font-size: medium;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
-p {
-    color: blue;
+
+
+p, h4 {
+    color: grey; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
